@@ -4,7 +4,7 @@
 I am a fresh computer science graduate interested in web development and data analysis 👩🏻‍💻. 
 ## 🌱 I'm currently learning:
 - Web dev's frameworks such as React and Django.
-- expanding my knowledge on data analysis topics such as storytelling and exploratory analysis.
+- expanding my knowledge on data analysis' topics such as storytelling and exploratory analysis.
 ## Connect With Me
 [![Linkedin Icon ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-al-mahfoodh-9b9b0b183/)
 ## Tech Stack 🖥️
