@@ -1,11 +1,13 @@
-
-# Hi there 👋
-## Who am I?
+<div align="center">
+<h1>Hi there 👋</h1> 
+<h2> Who am I? </h2>
 I am a fresh computer science graduate interested in web development and data analysis 👩🏻‍💻. 
-## 🌱 I'm currently learning:
-- Web dev's frameworks such as React and Django.
-- expanding my knowledge on data analysis' topics such as storytelling and exploratory analysis.
-## Connect With Me
+<h2> 🌱 I'm currently learning:</h2>
+  <ul>
+<li>Web dev's frameworks such as React and Django. </li>
+<li>expanding my knowledge on data analysis' topics such as storytelling and exploratory analysis. </li>
+    </ul>
+<h2> Connect With Me </h2>
 
 [![Linkedin Icon ](icons8-linkedin46.svg)](https://www.linkedin.com/in/fatima-al-mahfoodh-9b9b0b183/)
 
@@ -16,6 +18,7 @@ I am a fresh computer science graduate interested in web development and data an
 ## My Stat: 📊
 ![Fatimah's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimaham2000&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaham2000&layout=compact&theme=radical)
+</div>
 <!--
 **fatimaham2000/fatimaham2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
