@@ -2,7 +2,7 @@
 <h1>Hi there 👋</h1> 
 <h2> Who am I? </h2>
 I am a fresh computer science graduate interested in web development and data analysis 👩🏻‍💻. 
-<h2> 🌱 I'm currently learning:</h2>
+<h2>  I'm currently learning: 🌱</h2>
   <ul>
 <li style="padding-left:1em">Web dev's frameworks such as React and Django. </li>
 <li>expanding my knowledge on data analysis' topics such as storytelling and exploratory analysis. </li>
