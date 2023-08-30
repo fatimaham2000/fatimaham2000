@@ -6,7 +6,9 @@ I am a fresh computer science graduate interested in web development and data an
 - Web dev's frameworks such as React and Django.
 - expanding my knowledge on data analysis' topics such as storytelling and exploratory analysis.
 ## Connect With Me
-[![Linkedin Icon ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-al-mahfoodh-9b9b0b183/)
+
+[![Linkedin Icon ](icons8-linkedin.svg)](https://www.linkedin.com/in/fatima-al-mahfoodh-9b9b0b183/)
+
 ## Tech Stack 🖥️
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ## Operating System: ⚙️
