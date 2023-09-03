@@ -3,10 +3,10 @@
 <h2> Who am I? </h2>
 I am a computer science fresh graduate interested in web development and data analysis 👩🏻‍💻. 
 <h2>  I'm currently learning: 🌱</h2>
-  <ul style="list-style-position: inside;">
-<li>Web dev's frameworks such as React and Django. </li>
-<li>expanding my knowledge on data analysis' topics such as storytelling and exploratory analysis. </li>
-    </ul>
+  
+- Web dev's frameworks such as React and Django. 
+- expanding my knowledge on data analysis' topics such as storytelling and exploratory analysis.
+    
 <h2> Connect With Me </h2>
 
 [![Linkedin Icon ](icons8-linkedin46.svg)](https://www.linkedin.com/in/fatima-al-mahfoodh-9b9b0b183/)
